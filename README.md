@@ -32,13 +32,7 @@ cd Sleepy
 - Navigate to `NetworkManager.swift`.
 - Update the API base URL and authentication keys if necessary.
 
-### 5. Install Dependencies (If Applicable)
-If the project uses Swift Package Manager (SPM):
-```bash
-swift package update
-```
-
-### 6. Run the App on Your iPhone
+### 5. Run the App on Your iPhone
 - Connect your iPhone to your Mac.
 - Open Xcode and select your iPhone as the target device.
 - Ensure you have a valid Apple Developer Account signed in under `Signing & Capabilities`.
